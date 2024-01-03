@@ -11,6 +11,6 @@ class ViewCustomerController extends Controller
 //         $notifPesans = $this -> pesanmasukIndex();
 // $notifPengajuans = $this ->pengajuanmasukIndex();
         $alamat = Alamat::all();
-        return view('Customers/index', compact('alamat'));
+        return view('customers/index', compact('alamat'));
     }
 }
