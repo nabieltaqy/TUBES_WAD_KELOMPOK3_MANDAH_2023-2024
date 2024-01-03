@@ -246,27 +246,27 @@ http://www.tooplate.com/view/2075-digital-team
                			<div class="iso-box-wrapper col4-iso-box">
 
                				 <div class="iso-box html wordpress mobile col-lg-4 col-md-4 col-sm-6">
-               				 	<a href="{{asset ('customers/images/portfolio-img1.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/1.jpg') }}" alt="portfolio img"></a>
+               				 	<a href="{{asset ('customers/images/klien/1.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/1.jpg') }}" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box wordpress col-lg-4 col-md-4 col-sm-6">
-               				 	<a href="{{asset ('customers/images/portfolio-img2.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/2.jpg') }}" alt="portfolio img"></a>
+               				 	<a href="{{asset ('customers/images/klien/2.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/2.jpg') }}" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box html mobile col-lg-4 col-md-4 col-sm-6">
-               				 	<a href="{{asset ('customers/images/portfolio-img3.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/3.jpg') }}" alt="portfolio img"></a>
+               				 	<a href="{{asset ('customers/images/klien/3.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/3.jpg') }}" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box wordpress col-lg-4 col-md-4 col-sm-6">
-               				 	<a href="{{asset ('customers/images/portfolio-img4.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/4.jpg') }}" alt="portfolio img"></a>
+               				 	<a href="{{asset ('customers/images/klien/4.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/4.jpg') }}" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box html photoshop col-lg-4 col-md-4 col-sm-6">
-               				 	<a href="{{asset ('customers/images/portfolio-img5.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/5.jpg') }}" alt="portfolio img"></a>
+               				 	<a href="{{asset ('customers/images/klien/5.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/5.jpg') }}" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box photoshop col-lg-4 col-md-4 col-sm-6">
-               				 	<a href="{{asset ('customers/images/portfolio-img6.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/6.jpg') }}" alt="portfolio img"></a>
+               				 	<a href="{{asset ('customers/images/klien/6.jpg') }}" data-lightbox-gallery="portfolio-gallery"><img src="{{asset ('customers/images/klien/6.jpg') }}" alt="portfolio img"></a>
                				 </div>
 
                			</div>
